@@ -1,0 +1,23 @@
+# ASL to Nigerian Languages Translation System Requirements
+
+# Core Numeric & ML
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+joblib>=1.2.0
+
+# Deep Learning & N-Atlas NLP Translation
+torch>=2.0.0
+transformers>=4.30.0
+sentencepiece>=0.1.99
+
+# GUI Framework
+customtkinter>=5.2.0
+
+# Communication & Hardware Interfaces
+pyserial>=3.5
+
+# Audio & Text-to-Speech
+gTTS>=2.3.2
+pygame>=2.5.0
+pyttsx3>=2.90
